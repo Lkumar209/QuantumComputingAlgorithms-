@@ -9,4 +9,4 @@ In modern-day society, there is access to numerous sources to learning databases
 # Resources:
 
 Link to slides/database - https://drive.google.com/drive/folders/1Cky9HUqkH2mnC6a9t6SsrVM9CVbYRtSu?usp=sharing
-Link to youtube channel - https://www.youtube.com/channel/UCTTLBTVl1dz7WvXhc4TRsZQ - Go to "Quantum Computing through Python Series!"
+Link to youtube channel - https://www.youtube.com/playlist?list=PLAP6sKFCgbd7g2viTFOuLcQx3JJAAskNx - Go to "Quantum Computing through Python Series!"
