@@ -1,4 +1,4 @@
-# QuantumComputingAlgorithms- 
+# Research in Quantum Computing through Python-
 
 This project was a research project done under a mentor where we dove deep into understanding Quantum Mechanics,its connection to Quantum Computing, and how we can replicate a Quantum Computer Black Box in Python, by simulating code for Quantum Algorithms. Check out the various Quantum Algorithm Simulations made in Python! These Simulations align with my video tutorial series on understanding Quantum Computers and diving deep into the realm of Quantum Algorithms through Python!
 
